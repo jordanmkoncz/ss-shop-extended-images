@@ -3,7 +3,7 @@
  *
  * @author Mark Guinn <mark@adaircreative.com>
  * @date 08.22.2013
- * @package shop_extendedimages
+ * @package shop-extended-images
  * @subpackage javascript
  */
 (function ($, window, document, undefined) {

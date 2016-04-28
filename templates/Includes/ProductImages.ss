@@ -1,7 +1,7 @@
 <% require javascript(framework/thirdparty/jquery/jquery.js) %>
-<% require javascript(shop_extendedimages/thirdparty/elevatezoom/jquery.elevatezoom.js) %>
-<% require javascript(shop_extendedimages/javascript/ProductImages.js) %>
-<% require css(shop_extendedimages/css/ProductImages.css) %>
+<% require javascript(shop-extended-images/thirdparty/elevatezoom/jquery.elevatezoom.js) %>
+<% require javascript(shop-extended-images/javascript/ProductImages.js) %>
+<% require css(shop-extended-images/css/ProductImages.css) %>
 
 <div id="ProductImageWrapper">
 	<% if $Image.ContentImage %>

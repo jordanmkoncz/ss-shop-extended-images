@@ -5,7 +5,7 @@
  *
  * @author Mark Guinn <mark@adaircreative.com>
  * @date 08.20.2013
- * @package shop_extendedimages
+ * @package shop-extended-images
  */
 class MultipleProductImages extends DataExtension
 {
